@@ -8,8 +8,6 @@ Hey, I’m Elliot Briant — aka *the_social_hacker* — a software engineer wit
 
 Welcome to my GitHub! 
 
-I'm a Brazilian-American dev with one foot in the command line, one foot on the launchpad, and my head somewhere in low Earth orbit. I write code to solve real problems and imagine a better future — ideally one with less gravity and more collaboration.
-
 ---
 
 ## 🛠️ What I do when I'm not debugging reality:
