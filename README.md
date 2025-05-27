@@ -73,7 +73,7 @@ const currentMission = {
 
 📬 Open to collaborations in tech, AI, aerospace, or public science engagement
 
-“I don’t just want to go to space — I want to help build the systems that get us there, and ensure more people can come along.”
+> “I don’t just want to go to space — I want to help build the systems that get us there, and ensure more people can come along.”
 
 Thanks for visiting. Feel free to explore my repos and reach out!
 
