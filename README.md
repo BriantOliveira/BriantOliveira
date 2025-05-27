@@ -1,4 +1,4 @@
-# 👨‍🚀 Elliot Briant De Oliveira — Earth-Based Human, Space-Aspired Hacker, Software Engineer, Data Scientist, Entrepreneur & Space Advocate
+# 👨‍🚀 Elliot Briant De Oliveira — Earth-Based Human, Space-Aspired Hacker & Space Advocate
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Building+Earth-to-Space+Tech;+👾+Taming+AI+Models;+🌱+Advocating+for+an+Inclusive+Future)](https://git.io/typing-svg)
 
