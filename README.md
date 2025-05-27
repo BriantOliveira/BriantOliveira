@@ -17,7 +17,7 @@ Welcome to my GitHub!
 - 🛰️ **Space Tech Enthusiast**: Participated in analog astronaut missions, launched experiments into microgravity, and help select humans to go *up there*.
 - 🧬 **Biohacking Research**: Turning proteins, genes, and muscle degeneration into code and companies. FDA approval pending, but vibes are good.
 - 🎤 **Public Speaker & Storyteller**: Because good code should come with a narrative arc.
-- 🐱‍👤 **Startup Survivor**: Ex-CEO, current everything-else. Built fintech, web3, and social platforms with Wi-Fi and caffeine.
+- 🐱‍👤 **Startup Survivor**: Ex-CTO, current everything-else. Built fintech, web3, and social platforms with Wi-Fi and caffeine.
 
 ---
 
