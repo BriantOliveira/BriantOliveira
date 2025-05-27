@@ -66,14 +66,14 @@ const currentMission = {
 }
 ```
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 Languages: TypeScript, JavaScript, Python, SQL, ColdFusion
 Frameworks: React, Node.js, NestJS, Express, Next.js
 Databases: PostgreSQL, MySQL, MongoDB
 Tools & Infra: AWS, Docker, GitHub Actions, Redis, Tesseract OCR, OpenAI API, LLaMA
 Soft Skills: Research communication, remote collaboration, product leadership, public speaking
 
-🌐 Let’s Connect
+## 🌐 Let’s Connect
 📸 Instagram: @the_social_hacker
 
 🛰️ MoonDAO Community
@@ -86,5 +86,4 @@ Soft Skills: Research communication, remote collaboration, product leadership, p
 
 Thanks for visiting. Feel free to explore my repos and reach out!
 
-yaml
-Copy code
+
