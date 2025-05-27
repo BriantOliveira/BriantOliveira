@@ -73,7 +73,7 @@ const currentMission = {
 
 🌍 elliotbriant.com (Coming soon)
 
-📬 Open to collaborations in AI, aerospace, or public science engagement
+📬 Open to collaborations in tech, AI, aerospace, or public science engagement
 
 “I don’t just want to go to space — I want to help build the systems that get us there, and ensure more people can come along.”
 
