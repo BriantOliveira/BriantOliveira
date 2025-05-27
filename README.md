@@ -64,6 +64,7 @@ const currentMission = {
   status: 'in perpetual beta',
   dream: 'to code from space',
 }
+```
 
 🛠 Tech Stack
 Languages: TypeScript, JavaScript, Python, SQL, ColdFusion
