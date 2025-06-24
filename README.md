@@ -14,10 +14,10 @@ Welcome to my GitHub!
 
 - 🧠 **AI Whisperer**: Fine-tuned LLaMA models, dissected OpenAI’s JSON dreams, and made resumes confess their secrets.
 - 💻 **Full-Stack Wizardry**: React, Node.js, PostgreSQL, Docker, ColdFusion (yes, still breathing), and some TypeScript spells.
-- 🛰️ **Space Tech Enthusiast**: Participated in analog astronaut missions, launched experiments into microgravity, and help select humans to go *up there*.
+- 🛰️ **Space Tech Enthusiast**: Participated in analog astronaut missions, looking to launch experiments into microgravity, and help select humans to go *up there*.
 - 🧬 **Biohacking Research**: Turning proteins, genes, and muscle degeneration into code and companies. FDA approval pending, but vibes are good.
 - 🎤 **Public Speaker & Storyteller**: Because good code should come with a narrative arc.
-- 🐱‍👤 **Startup Survivor**: Ex-CTO, current everything-else. Built fintech, web3, and social platforms with Wi-Fi and caffeine.
+- 🐱‍👤 **Startup Survivor**: Ex-CTO. Built fintech, web3, and social platforms with Wi-Fi and caffeine.
 
 ---
 
@@ -26,10 +26,10 @@ Welcome to my GitHub!
 I’m passionate about creating meaningful solutions that bridge today’s challenges with tomorrow’s possibilities — whether it’s through scalable web applications, intelligent automation, or scientific research in microgravity environments.
 
 - 🛰️ **Space & Research**  
-  Participated in analog astronaut missions and microgravity-focused research, contributing to experiments on musculoskeletal degeneration and protein folding in space. I advocate for democratizing access to space and am actively involved in space outreach programs such as MoonDAO and TODXS.
+  Participated in analog astronaut missions and microgravity-focused research, contributing to experiments on musculoskeletal degeneration and protein folding in space. I advocate for democratizing access to space and am actively involved in space outreach programs such as MoonDAO and TODXS Brasil.
 
 - 👨‍💻 **Engineering & Product**  
-  I've led full-stack development for fintech, music-tech, and AI SaaS platforms. My stack includes React, Node.js, Next.js, PostgreSQL, Docker, TypeScript, Golang, Python, and yes — ColdFusion (legacy systems matter too).
+  I've led full-stack development for fintech, music-tech, and AI SaaS platforms. My stack includes React, Node.js, Next.js, PostgreSQL, Docker, TypeScript, Golang, Python, and ColdFusion.
 
 - 🤖 **AI + Automation**  
   Designed intelligent pipelines for resume parsing, file extraction (PDF/DOCX/OCR), and built conversational agents powered by OpenAI and LLaMA. I believe good automation saves time — and bad automation makes great debugging stories.
